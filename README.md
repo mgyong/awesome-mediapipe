@@ -18,12 +18,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 - [Awesome MediaPipe](#awesome-mp)
     - [Desktop examples](#desktop-examples)
-    - [Android examples](#Android-examples)
-    - [iOS examples](#iOS-examples)
+    - [Android examples](#android-examples)
+    - [iOS examples](#ios-examples)
     - [TensorFlow and TFlite related](#tensorflow-and-tflite-related)
     - [Python related](#python-related)
     - [Pytorch related](#pytorch-related)
     - [Sign language hand gesture related](#sign-language-hand-gesture-related)
+    - [Nvidia Jetson integration](#nvidia-jetson-integration-draft-beta)
 
 - [Resources](#resources)
     - [Conferences](#conferences)
