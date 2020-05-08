@@ -76,6 +76,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 * [Sign language gesture recognition using a reccurent neural network(RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
+## Nvidia Jetson integration, draft [beta]
+(https://github.com/AndreV84/mediapipe)
 
 # Resources
 
