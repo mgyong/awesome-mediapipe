@@ -78,7 +78,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
 ## Nvidia Jetson integration, draft [beta]
-(https://github.com/AndreV84/mediapipe)
+https://github.com/AndreV84/mediapipe
 
 # Resources
 
