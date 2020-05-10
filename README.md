@@ -52,6 +52,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [MediaPipe hair segmentation example in gradle](https://github.com/afsaredrisy/MediapipeSegmentationGradle)
 
+* [Kotlin port of running MediaPipe hand tracking example](https://github.com/machidyo/MediaPipeHandTracking)
+
 ## iOS examples
 
 *iOS examples.*
