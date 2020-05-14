@@ -2,10 +2,6 @@
 
 [![Build Status](https://travis-ci.org/mgyong/awesome-mediapipe.svg?branch=master)](https://travis-ci.org/mgyong/awesome-mediapipe) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://mediapipe.slack.com/messages/awesome)
 
-Financial support to Awesome MediaPipe
-
-**We have no monthly cost**_, but we have volunteers who help maintain the Awesome MediaPipe
-
 A curated list of awesome MediaPipe related frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
@@ -79,8 +75,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 * [Sign language gesture recognition using a reccurent neural network(RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
+
+* [Hand commander: MQTT implementation of custom hand gestures running on raspberry pi](https://www.deuxexsilicon.com/2020/03/16/1st-motivation-and-first-steps/)
+
 ## Nvidia Jetson integration, draft [beta]
-https://github.com/AndreV84/mediapipe
+*  [Step by step tutorial on MediaPipe on Nvidia Jetson](https://github.com/AndreV84/mediapipe)
 
 # Resources
 
