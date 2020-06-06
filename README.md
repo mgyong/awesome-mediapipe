@@ -54,6 +54,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 *iOS examples.*
 
+* [Tutorial to create an importable iOS framework: Find memes that match your facial expression 😮](https://medium.com/@powderapp/mediapipe-tutorial-find-memes-that-match-your-facial-expression-9bf598da98c0)
+
 ## TensorFlow and TFllite related
 
 *TensorFlow and TFLite examples.*
