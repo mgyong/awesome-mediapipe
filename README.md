@@ -60,6 +60,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 *TensorFlow and TFLite examples.*
 
+* [Face tracking web utility with applied filters for headtracking spatial audio uses](https://github.com/Mach1Studios/m1-web-spatialaudioplayer)
+
 ## Python related
 
 *Python.*
