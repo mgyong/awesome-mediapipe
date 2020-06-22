@@ -1,6 +1,6 @@
 # Awesome MediaPipe
 
-[![Build Status](https://travis-ci.org/mgyong/awesome-mediapipe.svg?branch=master)](https://travis-ci.org/mgyong/awesome-mediapipe) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://mediapipe.slack.com/messages/awesome)
+[![Build Status](https://travis-ci.org/mgyong/awesome-mediapipe.svg?branch=master)](https://travis-ci.org/mgyong/awesome-mediapipe) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://mediapipe.page.link/joinslack)
 
 A curated list of awesome MediaPipe related frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
