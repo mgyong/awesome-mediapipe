@@ -16,6 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
     - [Desktop examples](#desktop-examples)
     - [Android examples](#android-examples)
     - [iOS examples](#ios-examples)
+    - [Cloud examples](#cloud-examples)
     - [TensorFlow and TFlite related](#tensorflow-and-tflite-related)
     - [Python related](#python-related)
     - [Pytorch related](#pytorch-related)
@@ -55,6 +56,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *iOS examples.*
 
 * [Tutorial to create an importable iOS framework: Find memes that match your facial expression 😮](https://medium.com/@powderapp/mediapipe-tutorial-find-memes-that-match-your-facial-expression-9bf598da98c0)
+
+## Cloud examples
+
+*Cloud examples.*
+
+* [How to install MediaPipe on GPU instance in Amazon EC2.](https://dev.classmethod.jp/articles/mediapipe-install-on-aws-ec2-with-gpu-english/)
+
 
 ## TensorFlow and TFllite related
 
