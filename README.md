@@ -39,6 +39,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Connecting openFrameworks to Google MediaPipe Machine Learning Framework over UDP](https://github.com/madelinegannon/example-mediapipe-udp)
 
+* [Sign gesture recognition with Mediapipe](https://github.com/nodamu/sign-language-recogntion)
+
 ## Android examples
 
 *Android examples.*
