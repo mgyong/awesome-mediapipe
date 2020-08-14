@@ -59,6 +59,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Tutorial to create an importable iOS framework: Find memes that match your facial expression 😮](https://medium.com/@powderapp/mediapipe-tutorial-find-memes-that-match-your-facial-expression-9bf598da98c0)
 
+* [How to build MediaPipe hand tracking (iOS) as an Xcode project](https://qiita.com/ponte1010/items/ed10cb2b5dcf7579f9bc)
+
 ## Cloud examples
 
 *Cloud examples.*
