@@ -66,7 +66,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Unity hand tracking with MediaPipe](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe)
 
-* [Unity MediaPipe Plugin]https://github.com/homuler/MediapipeUnityPlugin
+* [Unity MediaPipe Plugin](https://github.com/homuler/MediapipeUnityPlugin)
 
 ### frameworks
 
@@ -104,7 +104,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Sign language hand gesture related
 
-* [Sign language gesture recognition using a reccurent neural network(RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
+* [Sign language gesture recognition using a recurrent neural network (RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
 
