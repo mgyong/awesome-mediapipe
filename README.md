@@ -103,6 +103,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *Pytorch examples.*
 
 ## Sign language hand gesture related
+* [Sign Language Gesture Recognition Android](https://github.com/nodamu/sign-language-recogntion-android)
 
 * [Sign language gesture recognition using a recurrent neural network (RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
