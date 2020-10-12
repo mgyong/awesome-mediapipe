@@ -16,6 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
     - [Desktop examples](#desktop-examples)
     - [Android examples](#android-examples)
     - [iOS examples](#ios-examples)
+    - [Unity examples](#unity)
     - [Cloud examples](#cloud-examples)
     - [TensorFlow and TFlite related](#tensorflow-and-tflite-related)
     - [Python related](#python-related)
@@ -53,11 +54,27 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Kotlin port of running MediaPipe hand tracking example](https://github.com/machidyo/MediaPipeHandTracking)
 
-## iOS examples
+## iOS
 
 *iOS examples.*
 
 * [Tutorial to create an importable iOS framework: Find memes that match your facial expression 😮](https://medium.com/@powderapp/mediapipe-tutorial-find-memes-that-match-your-facial-expression-9bf598da98c0)
+
+* [How to build MediaPipe hand tracking (iOS) as an Xcode project](https://qiita.com/ponte1010/items/ed10cb2b5dcf7579f9bc)
+
+## Unity
+
+* [Unity hand tracking with MediaPipe](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe)
+
+* [Unity MediaPipe Plugin](https://github.com/homuler/MediapipeUnityPlugin)
+
+### frameworks
+
+*iOS frameworks.*
+
+* [Prebuilded framework for upper body pose tracker](https://github.com/noppefoxwolf/UpperBodyPoseTracker)
+
+* [Prebuilded framework for hand tracker](https://github.com/noppefoxwolf/HandTracker)
 
 ## Cloud examples
 
@@ -87,7 +104,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Sign language hand gesture related
 
-* [Sign language gesture recognition using a reccurent neural network(RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
+* [Sign language gesture recognition using a recurrent neural network (RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
 
