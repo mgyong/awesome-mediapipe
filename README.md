@@ -129,3 +129,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 ### Tutorials
 
 * [MediaPipe with Custom tflite Model](https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1?gi=34cdb896bc94) - Getting started tutorial by engineers at Indian startup Fynd
+
+* [Creating Calculator, Beyond the Documentation](https://codeburst.io/creating-calculators-in-mediapipe-beyond-the-documentation-83e1883b91a?source=friends_link&sk=0428794f27a1e7d62cdd0726fdc5eb62) - Read this after reading the documentation by students at UC Satna Barbara
