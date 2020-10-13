@@ -107,6 +107,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Sign language gesture recognition using a recurrent neural network (RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
+* [SigNN - American sign language alphabet translation](https://github.com/AriAlavi/SigNN)
+
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
 
 * [Hand commander: MQTT implementation of custom hand gestures running on raspberry pi](https://www.deuxexsilicon.com/2020/03/16/1st-motivation-and-first-steps/)
