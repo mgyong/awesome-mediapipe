@@ -124,7 +124,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Websites
 
-*Add any related websites (send **PR**)*
+* [3D Web Hands with MediaPipe + tf.js](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
 
 ### Tutorials
 
