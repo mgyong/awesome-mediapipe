@@ -92,7 +92,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Python related
 
-*Python.*
+* [simple-mediapipe](https://github.com/mengfu188/simple-mediapipe) python reimplement
 
 ## Flutter related
 
