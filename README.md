@@ -123,6 +123,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Sign language gesture recognition using a recurrent neural network (RNN) with Mediapipe hand tracking](https://github.com/rabBit64/Sign-language-recognition-with-RNN-and-Mediapipe)
 
+* [SigNN - American sign language alphabet translation](https://github.com/AriAlavi/SigNN)
+
 * [System for recognizing signs of the german sign language (DGS) from live webcam](https://github.com/Tachionstrahl/SignLanguageRecognition)
 
 * [Hand commander: MQTT implementation of custom hand gestures running on raspberry pi](https://www.deuxexsilicon.com/2020/03/16/1st-motivation-and-first-steps/)
@@ -144,5 +146,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 * [Handsfree.js.org](https://handsfree.js.org) - A wrapper library around MediaPipe with a plugin system for quickly creating and sharing handsfree user experiences. Features detailed guides and documentation, integrations and boilerplates, chrome extensions, and more
 
 ### Tutorials
+
+* [Creating Calculators, Beyond the Documentation](https://codeburst.io/creating-calculators-in-mediapipe-beyond-the-documentation-83e1883b91a?source=friends_link&sk=0428794f27a1e7d62cdd0726fdc5eb62) - Read this after reading the documentation by students at UC Satna Barbara
 
 * [MediaPipe with Custom tflite Model](https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1?gi=34cdb896bc94) - Getting started tutorial by engineers at Indian startup Fynd
