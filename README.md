@@ -15,10 +15,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 - [Awesome MediaPipe](#awesome-mp)
     - [Desktop examples](#desktop-examples)
     - [Android examples](#android-examples)
-    - [iOS examples](#ios-examples)
+    - [iOS examples](#ios)
+    - [Myriad X Vision Proocessing Unit](#myriad-x-vpu)
     - [Unity examples](#unity)
     - [Cloud examples](#cloud-examples)
-    - [TensorFlow and TFlite related](#tensorflow-and-tflite-related)
+    - [TensorFlow and TFlite related](#tensorflow-and-tfllite-related)
     - [Python related](#python-related)
     - [Pytorch related](#pytorch-related)
     - [Sign language hand gesture related](#sign-language-hand-gesture-related)
@@ -42,6 +43,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Sign gesture recognition with Mediapipe](https://github.com/nodamu/sign-language-recogntion)
 
+* [MediaPipe Python examples using OSSDC VisionAI platform](https://github.com/OSSDC/OSSDC-VisionAI-Core/blob/master/video_processing_mediapipe.py)
+    * Demo video (reproducible on desktop or in cloud):
+        - [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
+        - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
+
 ## Android examples
 
 *Android examples.*
@@ -62,6 +68,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [How to build MediaPipe hand tracking (iOS) as an Xcode project](https://qiita.com/ponte1010/items/ed10cb2b5dcf7579f9bc)
 
+## Myriad X VPU
+
+*DepthAI cameras examples.*
+
+* [MediaPipe hands tracking on DepthAI camera through OSSDC VisionAI on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=CdvpjKfNUWw)
+    - [Code for this demo video](https://github.com/OSSDC/OSSDC-VisionAI-Core/blob/master/video_processing_oakd_mediapipe.py)
+  
+* [Hand tracking with DepthAI](https://github.com/geaxgx/depthai_hand_tracker)
+
 ## Unity
 
 * [Unity hand tracking with MediaPipe](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe)
@@ -81,7 +96,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *Cloud examples.*
 
 * [How to install MediaPipe on GPU instance in Amazon EC2.](https://dev.classmethod.jp/articles/mediapipe-install-on-aws-ec2-with-gpu-english/)
-
+ 
+* [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
+    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
 
 ## TensorFlow and TFllite related
 
@@ -93,6 +110,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 ## Python related
 
 *Python.*
+
+* [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
+    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
 
 ## Flutter related
 
