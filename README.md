@@ -110,6 +110,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 * [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
     - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
 
+* [Recognizes hand signs and finger gestures using Python mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
+
 ## Flutter related
 
 * [Flutter package for MediaPipe Hand tracking example to generate both iOS and Android apps](https://github.com/zhouzaihang/flutter_hand_tracking_plugin)
