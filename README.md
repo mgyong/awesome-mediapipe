@@ -108,7 +108,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *Python.*
 
 * [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
-    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
+    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb)
+
+* [Control 🛸 DJI Tello drone with gestures using MediaPipe hand tracker](https://www.youtube.com/watch?v=0l9Bb5IC86E)
+
 
 ## Flutter related
 
