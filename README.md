@@ -83,9 +83,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 *iOS frameworks.*
 
-* [Prebuilded framework for upper body pose tracker](https://github.com/noppefoxwolf/UpperBodyPoseTracker)
+* [Prebuilt framework for upper body pose tracking](https://github.com/noppefoxwolf/UpperBodyPoseTracker)
 
-* [Prebuilded framework for hand tracker](https://github.com/noppefoxwolf/HandTracker)
+* [Prebuilt framework for hand tracking](https://github.com/noppefoxwolf/HandTracker)
 
 ## Cloud examples
 
