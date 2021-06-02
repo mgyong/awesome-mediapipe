@@ -71,7 +71,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Hand tracking with DepthAI](https://github.com/geaxgx/depthai_hand_tracker)
 
-* [MediaPipe hands tracking on DepthAI camera through OSSDC VisionAI on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=CdvpjKfNUWw)  
+* [MediaPipe hands tracking on DepthAI camera through OSSDC VisionAI on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=CdvpjKfNUWw)
 
 ## Unity
 
@@ -92,15 +92,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *Cloud examples.*
 
 * [How to install MediaPipe on GPU instance in Amazon EC2.](https://dev.classmethod.jp/articles/mediapipe-install-on-aws-ec2-with-gpu-english/)
- 
+
 * [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
-    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
+    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb)
 
 ## TensorFlow and TFllite related
 
 *TensorFlow and TFLite examples.*
 
 * [Face tracking web utility with applied filters for headtracking spatial audio uses](https://github.com/Mach1Studios/m1-web-spatialaudioplayer)
+
 * [Sample code for sharing and testing TFLite models quantized and optimized for ARM devices (e.g. RaspberryPi) with BlazeFace, FaceMesh, BodyPix, and Objectron](https://github.com/PINTO0309/PINTO_model_zoo)
 
 ## Python related
@@ -108,7 +109,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 *Python.*
 
 * [MediaPipe Holistic running in Google Colab on WebRTC video stream from Android phone](https://www.youtube.com/watch?v=0l9Bb5IC86E)
-    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb) 
+    - [Google Colab to reproduce this demo in less than 5 min](https://colab.research.google.com/github/OSSDC/OSSDC-VisionAI-Core/blob/master/OSSDC_VisionAI_demo_reel.ipynb)
+
+* [MediaPipe Python Wheel installer (pip) for RaspberryPi OS aarch64, Ubuntu aarch64 Debian aarch64, L4T/Jetson Nano aarch64.](https://github.com/PINTO0309/mediapipe-bin)
 
 ## Flutter related
 
