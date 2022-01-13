@@ -113,6 +113,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [MediaPipe Python Wheel installer (pip) for RaspberryPi OS aarch64, Ubuntu aarch64 Debian aarch64, L4T/Jetson Nano aarch64.](https://github.com/PINTO0309/mediapipe-bin)
 
+* [Recognizes hand signs and finger gestures using Python mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
+
 ## Flutter related
 
 * [Flutter package for MediaPipe Hand tracking example to generate both iOS and Android apps](https://github.com/zhouzaihang/flutter_hand_tracking_plugin)
