@@ -45,6 +45,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [MediaPipe Python examples using WebRTC based OSSDC VisionAI platform](https://github.com/OSSDC/OSSDC-VisionAI-Core/blob/master/video_processing_mediapipe.py)
 
+* [In browser full body tracking+rendering using MediaPipe JavaScript solution](https://github.com/phantom-software-AZ/v3d-web)
+
 ## Android examples
 
 *Android examples.*
