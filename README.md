@@ -13,6 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 ### Contents
 
 - [Awesome MediaPipe](#awesome-mp)
+    - [Cross-platform frameworks](#cross-platform-frameworks)
     - [Desktop examples](#desktop-examples)
     - [Android examples](#android-examples)
     - [iOS examples](#ios)
@@ -30,6 +31,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
     - [Meetups](#meetups)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
+
+## Cross-platform frameworks
+
+*Examples of cross-platform frameworks using MediaPipe.*
+
+* [Google Magritte face blurring library](https://github.com/google/magritte)
 
 ## Desktop examples
 
