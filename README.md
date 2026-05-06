@@ -41,6 +41,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Connecting openFrameworks to Google MediaPipe Machine Learning Framework over UDP](https://github.com/madelinegannon/example-mediapipe-udp)
 
+* [HandControl](https://github.com/ArmandoBattaglino/HandControl) - Electron desktop app for Windows that controls the OS via hand gestures (cursor, clicks, drag, dictation) using MediaPipe Tasks Vision HandLandmarker.
+
 * [Sign gesture recognition with Mediapipe](https://github.com/nodamu/sign-language-recogntion)
 
 * [MediaPipe Python examples using WebRTC based OSSDC VisionAI platform](https://github.com/OSSDC/OSSDC-VisionAI-Core/blob/master/video_processing_mediapipe.py)
