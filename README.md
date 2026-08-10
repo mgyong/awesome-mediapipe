@@ -115,6 +115,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [Recognizes hand signs and finger gestures using Python mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 
+* [Benchmarks Face Landmarker's landmark stability and detection success rate under progressive facial occlusion](https://github.com/YOUR_USERNAME/mediapipe-occlusion-robustness)
+
 ## Flutter related
 
 * [Flutter package for MediaPipe Hand tracking example to generate both iOS and Android apps](https://github.com/zhouzaihang/flutter_hand_tracking_plugin)
