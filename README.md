@@ -149,6 +149,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [3D Web Hands with MediaPipe + tf.js](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
 * [Handsfree.js.org](https://handsfree.js.org) - A wrapper library around MediaPipe with a plugin system for quickly creating and sharing handsfree user experiences. Features detailed guides and documentation, integrations and boilerplates, chrome extensions, and more
+* [Leviate](https://github.com/vladpereverzyev/leviate) - Moves 3D models and the mouse with the hand through a webcam or a phone, using MediaPipe Hand Landmarker in a web worker. Web app, desktop app, Chrome extension and Blender add-on.
 
 ### Tutorials
 
