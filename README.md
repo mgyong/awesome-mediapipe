@@ -147,6 +147,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Websites
 
+* [FotoApta document-photo editor](https://fotoapta.com/en/) - Browser-based document-photo cropping and print sheets using MediaPipe Tasks Vision (FaceLandmarker + ImageSegmenter). The separate external AI portrait service is not part of this local editor. [Engine (MIT) and spec data (CC BY 4.0)](https://github.com/MMMystery/foto-documento-specs)
+
 * [3D Web Hands with MediaPipe + tf.js](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
 * [Handsfree.js.org](https://handsfree.js.org) - A wrapper library around MediaPipe with a plugin system for quickly creating and sharing handsfree user experiences. Features detailed guides and documentation, integrations and boilerplates, chrome extensions, and more
 
